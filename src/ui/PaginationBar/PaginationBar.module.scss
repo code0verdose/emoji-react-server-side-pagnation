@@ -1,0 +1,32 @@
+.button {
+  padding: 12px 14px;
+  border: 1px solid #dee2e6;
+  background: #fff;
+  color: #055160;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 16px;
+  min-width: 56px;
+  &:first-child {
+    border-radius: 4px 0 0 4px;
+  }
+  &:last-child {
+    border-radius: 0px 4px 4px 0;
+  }
+  &:disabled {
+    background: #fff;
+    color: #abb5be;
+    cursor: not-allowed;
+  }
+}
+
+.active {
+  border: 1px solid #055160;
+  background: #055160;
+  color: #fff;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 16px;
+}

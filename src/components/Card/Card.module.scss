@@ -1,0 +1,37 @@
+.card {
+  padding: 24px;
+  border-radius: 4px;
+  border: 1px solid #dee2e6;
+  background: #fff;
+  text-align: center;
+  min-height: 190px;
+
+  &__title {
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 28px;
+    margin-top: 18px;
+    text-decoration-line: underline;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+  }
+  &__symbol {
+    color: #68717a;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 48px;
+  }
+
+  &__keywords {
+    color: #3f444a;
+    text-align: center;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 12px;
+  }
+}
