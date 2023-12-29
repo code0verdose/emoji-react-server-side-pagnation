@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/emoji-react-server-side-pagnation/static/css/main.7fe177c0.css",
+    "main.js": "/emoji-react-server-side-pagnation/static/js/main.26f2a3b1.js",
+    "index.html": "/emoji-react-server-side-pagnation/index.html",
+    "main.7fe177c0.css.map": "/emoji-react-server-side-pagnation/static/css/main.7fe177c0.css.map",
+    "main.26f2a3b1.js.map": "/emoji-react-server-side-pagnation/static/js/main.26f2a3b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fe177c0.css",
+    "static/js/main.26f2a3b1.js"
+  ]
+}
